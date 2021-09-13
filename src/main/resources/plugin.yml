@@ -1,0 +1,20 @@
+name: FarmingPlus
+author: [ ZedBear ]
+main: me.ZedBear.FarmingPlus.Main
+version: 1.0
+api-version: 1.16
+commands:
+  selldrops:
+    usage: /<command>
+    description: A command to sell all special tiered drops!
+    aliases: [ sd ]
+  drops:
+    usage: /<command>
+    description: A command to view the drops tier list!
+  givedrops:
+    usage: /<command>
+    description: A command for admins to give themselves drops!
+  farmingplus:
+    usage: /<command>
+    description: Overarching command for FarmingPlus!
+    aliases: [ fp ]

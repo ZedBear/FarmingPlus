@@ -1,0 +1,83 @@
+# Hello, welcome to TieredFarmingDrops :)
+#
+# Enable / Disbale everything
+enable-tiered-farming-drops: true
+
+# Drop Chances
+# Use 1, 2 and 3 for each tier of farming drop
+# Write your percantage using a whole integer
+# e.g. 5% for tier 2 potato would be 5
+# DO NOT USE DECIMALS, as we currently do not support them
+drop-chances:
+  cactus:
+    1: 5
+    2: 3
+    3: 1
+  carrot:
+    1: 5
+    2: 3
+    3: 1
+  potato:
+    1: 5
+    2: 3
+    3: 1
+  pumpkin:
+    1: 5
+    2: 3
+    3: 1
+  melon:
+    1: 5
+    2: 3
+    3: 1
+  wheat-seeds:
+    1: 5
+    2: 3
+    3: 1
+  sugarcane:
+    1: 5
+    2: 3
+    3: 1
+  nether_wart:
+    1: 5
+    2: 3
+    3: 1
+
+
+# Sell Prices
+# Use 1, 2 and 3 for each tier of farming drop
+# Write your price as a whole number
+# e.g. 10000 for 10k
+# DO NOT USE COMMAS OR ABBREVIATIONS IN ANY WAY
+prices:
+  cactus:
+    1: 10000
+    2: 20000
+    3: 30000
+  carrot:
+    1: 10000
+    2: 20000
+    3: 30000
+  potato:
+    1: 10000
+    2: 20000
+    3: 30000
+  pumpkin:
+    1: 10000
+    2: 20000
+    3: 30000
+  melon:
+    1: 10000
+    2: 20000
+    3: 30000
+  wheat-seeds:
+    1: 10000
+    2: 20000
+    3: 30000
+  sugarcane:
+    1: 10000
+    2: 20000
+    3: 30000
+  nether_wart:
+    1: 10000
+    2: 20000
+    3: 30000
